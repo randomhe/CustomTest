@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="oneBitmap" format="reference"></attr>
+    <attr name="twoBitmap" format="reference"></attr>
+    <declare-styleable name="PorterDuffText">
+        <attr name="oneBitmap"/>
+        <attr name="twoBitmap"/>
+    </declare-styleable>
+</resources>

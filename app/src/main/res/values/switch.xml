@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="openColor" format="color"></attr>
+    <attr name="closeColor" format="color"></attr>
+    <attr name="swradios" format="float"></attr>
+    <attr name="isChecked" format="boolean"></attr>
+    <declare-styleable name="SwitchView">
+        <attr name="openColor"/>
+        <attr name="closeColor"/>
+        <attr name="swradios"/>
+        <attr name="isChecked"/>
+    </declare-styleable>
+</resources>

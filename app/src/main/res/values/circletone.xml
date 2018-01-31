@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="backColor" format="color"></attr>
+    <attr name="toneColor" format="color"></attr>
+    <attr name="radios" format="float"></attr>
+    <attr name="texts" format="string"></attr>
+    <attr name="textColors" format="color"></attr>
+    <attr name="textSizes" format="dimension"></attr>
+    <attr name="strokeWidth" format="float"></attr>
+    <declare-styleable name="CircleChangeView">
+        <attr name="backColor"/>
+        <attr name="toneColor"/>
+        <attr name="radios"/>
+        <attr name="texts"/>
+        <attr name="textColors"/>
+        <attr name="textSizes"/>
+        <attr name="strokeWidth"/>
+    </declare-styleable>
+</resources>

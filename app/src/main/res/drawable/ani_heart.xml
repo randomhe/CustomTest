@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/heart"
+    >
+    <target
+        android:animation="@xml/heart_animator"
+        android:name="heart1"/>
+    <target
+        android:animation="@xml/heart_animator"
+        android:name="heart2"/>
+    <target
+        android:animation="@xml/heart_animator"
+        android:name="heart3"/>
+    <target
+        android:animation="@xml/heart_animator"
+        android:name="heart4"/>
+    <target
+        android:animation="@xml/heart_animator"
+        android:name="heart5"/>
+    <target
+        android:animation="@xml/heart_animator"
+        android:name="heart6"/>
+    <target
+        android:animation="@xml/heart_animator"
+        android:name="heart7"/>
+    <target
+        android:animation="@xml/heart_animator"
+        android:name="heart8"/>
+    <target
+        android:animation="@xml/heart_animator"
+        android:name="heart9"/>
+</animated-vector>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="Src" format="reference"></attr>
+    <attr name="roundRadios" format="dimension"></attr>
+
+    <declare-styleable name="SrcView">
+        <attr name="Src"/>
+        <attr name="roundRadios"/>
+    </declare-styleable>
+</resources>

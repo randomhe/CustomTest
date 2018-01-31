@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="shadeBitmap" format="reference"/>
+    <declare-styleable name="ShadeBitmapView">
+        <attr name="shadeBitmap"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:custom="http://schemas.android.com/apk/res/com.example.bella.snowball"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#FF091B13">
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/svg_text"
+        />
+</LinearLayout>
+
+<!--<com.example.bella.snowball.TwoSnow.PorterDuffText-->
+<!--android:layout_width="match_parent"-->
+<!--android:layout_height="match_parent"-->
+<!--custom:oneBitmap="@mipmap/flower"-->
+    <!--/>-->
+    <!--<com.example.bella.snowball.TwoSnow.FlowerView-->
+    <!--android:layout_width="120dp"-->
+    <!--android:layout_height="200dp"-->
+    <!--custom:Src="@mipmap/xiaomei"-->
+    <!--/>-->
+    <!--<com.example.bella.snowball.TwoSnow.LoadingView-->
+    <!--android:id="@+id/loading_view"-->
+    <!--android:layout_width="300dp"-->
+    <!--android:layout_height="300dp"-->
+    <!--/>-->
+    <!--<com.example.bella.snowball.TwoSnow.CircleChangeView-->
+        <!--android:id="@+id/circle_change"-->
+        <!--android:layout_width="300dp"-->
+        <!--android:layout_height="300dp"-->
+        <!--custom:toneColor="#FFD61538"-->
+        <!--custom:backColor="#FFD2B54D"-->
+        <!--custom:strokeWidth="20"-->
+        <!--custom:textColors="#FF1ED1D4"-->
+        <!--custom:textSizes="15sp"-->
+        <!--/>-->
+    <!--<com.example.bella.snowball.TwoSnow.SwithView-->
+        <!--android:id="@+id/switch_view"-->
+        <!--android:layout_width="80dp"-->
+        <!--android:layout_height="50dp"-->
+        <!--custom:closeColor="#FFE22479"-->
+        <!--custom:openColor="#FFCFE224"-->
+        <!--custom:swradios="50"-->
+        <!--custom:isChecked="false"-->
+        <!--android:clickable="true"-->
+        <!--/>-->
+

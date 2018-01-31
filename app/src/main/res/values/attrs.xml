@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <attr name="Text" format="string"></attr>
+     <attr name="TextColor" format="color"></attr>
+     <attr name="TextSize" format="dimension"></attr>
+     <attr name="Image" format="reference"></attr>
+
+    <attr name="ImageScaleType">
+        <enum name="fillXY" value="1"/>
+        <enum name="center" value="0"/>
+    </attr>
+
+    <declare-styleable name="TextViewStyle">
+        <attr name="Text"></attr>
+        <attr name="TextColor"></attr>
+        <attr name="TextSize"></attr>
+        <attr name="Image"></attr>
+        <attr name="ImageScaleType"></attr>
+    </declare-styleable>
+
+</resources>

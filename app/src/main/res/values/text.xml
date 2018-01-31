@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="Bitmaps" format="reference"></attr>
+    <attr name="Bitmapd" format="reference"></attr>
+    <attr name="bRadios" format="dimension"></attr>
+    <declare-styleable name="CircleViewText">
+        <attr name="Bitmaps"/>
+        <attr name="Bitmapd"/>
+        <attr name="bRadios"/>
+    </declare-styleable>
+</resources>

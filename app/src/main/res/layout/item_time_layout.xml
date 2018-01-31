@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:id="@+id/text_post"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="美国硅谷公司发出"
+        android:textColor="#F3E4155D"
+        />
+    <TextView
+        android:id="@+id/text_addr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="发件人：深圳富士康"
+        android:textColor="#F3E4155D"
+        android:layout_marginTop="5dp"
+        />
+</LinearLayout>
